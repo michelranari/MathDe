@@ -1,0 +1,26 @@
+BMR; f d, c e, a b
+BMR; e d, c f, a b
+BMR; f e, c d, a b
+BMR; f e, c b, a d
+BMR; b e, c f, a d
+BMR; b f, c e, a d
+BMR; f d, e b, a c
+BMR; b d, e f, a c
+BMR; b f, e d, a c
+BMR; b d, c e, a f
+BMR; e d, c b, a f
+BMR; b e, c d, a f
+BMR; f d, c b, a e
+BMR; b d, c f, a e
+BMR; b f, c d, a e
+BMR; c f e, a b d
+BMR; d f e, a b c
+BMR; c d e, a b f
+BMR; c f d, a b e
+BMR; c b e, a d f
+BMR; c b f, a d e
+BMR; b f e, a c d
+BMR; d b e, a c f
+BMR; b f d, a c e
+BMR; c b d, a e f
+

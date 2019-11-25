@@ -1,0 +1,8 @@
+,a ,b,c,d,e,f,g
+a,-1,TB,TB,TB,TB,TB,TB
+b,TB,-1,TB,TB,TB,TB,TB
+c,TB,TB,-1,TB,TB,TB,TB
+d,TB,TB,TB,-1,TB,TB,TB
+e,TB,TB,TB,TB,-1,TB,TB
+f,TB,TB,TB,TB,TB,-1,TB
+g,TB,TB,TB,TB,TB,TB,-1

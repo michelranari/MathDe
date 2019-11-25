@@ -1,0 +1,7 @@
+,pierre,paul,jacques,marie,madeleine,anne
+pierre,-1,TB,TB,TB,TB,TB
+paul,TB,-1,TB,TB,TB,TB
+jacques,TB,TB,-1,TB,TB,TB
+marie,TB,TB,TB,-1,TB,TB
+madeleine,TB,TB,TB,TB,-1,TB
+anne,TB,TB,TB,TB,TB,-1
